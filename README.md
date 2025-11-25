@@ -1,7 +1,6 @@
 # Terminal AI Agent – File Organizer
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![License](https://img.shields.io/badge/License-MIT-yellow)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey)
 
 Proyek ini adalah **Terminal AI Agent** yang dapat memahami perintah bahasa natural untuk merapikan file di dalam folder secara otomatis.  
@@ -110,6 +109,11 @@ Program ini **tidak akan memindahkan** file berikut:
 - folder kategori (Music, Videos, etc.)  
 
 Supaya program tidak mengacak file penting.
+
+---
+
+## 📝 Lisensi
+Proyek ini tidak menggunakan lisensi dan hanya dibuat untuk keperluan akademik.
 
 ---
 
